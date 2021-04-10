@@ -1,0 +1,180 @@
+{
+  "project_info": {
+    "project_number": "938559105406",
+    "firebase_url": "https://medsonlinebd-eea56.firebaseio.com",
+    "project_id": "medsonlinebd-eea56",
+    "storage_bucket": "medsonlinebd-eea56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938559105406:android:7e941d6f861cfa1dc0ab2f",
+        "android_client_info": {
+          "package_name": "com.adh.medsonlineadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938559105406-fg35pl9qsjeb68r8gc2frf5at718dp78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adh.medsonlineadmin",
+            "certificate_hash": "28b3c8a91bd8cc2aa74aece93bc89c8bfdd7c6ae"
+          }
+        },
+        {
+          "client_id": "938559105406-m397g62jupr19gechec1lc3sje2l01ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaVkIF0jpkU3I3GbDEIjReJwG_JLU8GzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938559105406-m397g62jupr19gechec1lc3sje2l01ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938559105406:android:bce0650551e6ab86c0ab2f",
+        "android_client_info": {
+          "package_name": "com.adh.medsonlineretailer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938559105406-11sute0g2c7bea3ko9606cedu49cek9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adh.medsonlineretailer",
+            "certificate_hash": "66295a646c771d395b028caf55c1b11c72fc4fbc"
+          }
+        },
+        {
+          "client_id": "938559105406-m397g62jupr19gechec1lc3sje2l01ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaVkIF0jpkU3I3GbDEIjReJwG_JLU8GzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938559105406-m397g62jupr19gechec1lc3sje2l01ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938559105406:android:e85ac097b1c8c659c0ab2f",
+        "android_client_info": {
+          "package_name": "com.androiddevelopershub.medsonlinebd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938559105406-n391mjuu5vh14k920pq06omrjb94nrig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androiddevelopershub.medsonlinebd",
+            "certificate_hash": "3c618e88bd621a38c242c517533e1292ff9f4fb2"
+          }
+        },
+        {
+          "client_id": "938559105406-m397g62jupr19gechec1lc3sje2l01ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaVkIF0jpkU3I3GbDEIjReJwG_JLU8GzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938559105406-m397g62jupr19gechec1lc3sje2l01ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938559105406:android:1f8eb7e9232ced08c0ab2f",
+        "android_client_info": {
+          "package_name": "com.retailer.medsonlinebd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938559105406-m397g62jupr19gechec1lc3sje2l01ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaVkIF0jpkU3I3GbDEIjReJwG_JLU8GzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938559105406-m397g62jupr19gechec1lc3sje2l01ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938559105406:android:26734056bad32dbcc0ab2f",
+        "android_client_info": {
+          "package_name": "com.user.medsonlinebd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938559105406-m397g62jupr19gechec1lc3sje2l01ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaVkIF0jpkU3I3GbDEIjReJwG_JLU8GzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938559105406-m397g62jupr19gechec1lc3sje2l01ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
